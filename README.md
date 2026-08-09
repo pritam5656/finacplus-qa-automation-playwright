@@ -13,7 +13,7 @@ Playwright end-to-end and API test suite for DemoQA Book Store and ReqRes.
 
 ## Prerequisites
 
-- Node.js 18+
+- Node.js 20+
 - DemoQA account ([register](https://demoqa.com/register) — CAPTCHA prevents automated signup)
 - ReqRes API key from [app.reqres.in](https://app.reqres.in)
 
